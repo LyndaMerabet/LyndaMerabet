@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lynda</h1>
 <h3 align="center">Computer Science student in my final Bachelor’s year, aspiring to pursue a Master’s degree in advanced computing technologies.</h3>
 
-- 📫 How to reach me **lyndamerabet1@gmail.com**
+- 📫 How to reach me **lyndamerabet2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
