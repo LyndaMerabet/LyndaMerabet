@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lynda</h1>
-<h3 align="center">Computer Science student in my final Bachelor’s year, aspiring to pursue a Master’s degree in advanced computing technologies.</h3>
+<h3 align="center">Computer Science Master's student at UGA, passionate about Data Analytics, Data Science, and Artificial Intelligence, seeking to deepen my expertise in data-driven technologies and advanced computing.</h3>
 
 - 📫 How to reach me **lyndamerabet2004@gmail.com**
 
